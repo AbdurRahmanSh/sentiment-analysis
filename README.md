@@ -51,7 +51,7 @@ https://docs.python.org/3/library/venv.html
   
 ## Project Screenshots
 
-![App Screenshot](stock sementic.gif)
+![App Screenshot](https://github.com/AbdurRahmanSh/sentiment-analysis/blob/45d71ca3beb632d0663f16982382b29c563d0d61/stock%20sementic.gif)
 
   
 ## 🔗 Links
